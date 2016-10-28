@@ -1,2 +1,3 @@
 name: Tutor City
 markdown: kramdown
+permalink: /tutor/:year/:month/:day/:title
