@@ -23,5 +23,4 @@ We offer tutoring in *French* and *English* for children and adults as well as *
 plus maths and English*. Children’s tutoring can be provided on a one to one
 basis or in small groups.
 
-Click here for details of our rates and contact Dawn on 01752 302237 or by
-email to dawn@curiouscrab.com to book an initial free session.
+ 
