@@ -19,9 +19,11 @@ recognising that each child is different – in the way that they learn and
 in their individual talents and abilities. We believe in a patient, fun approach
 so that children can enjoy learning.
 
-We offer tutoring in French and English for children and adults as well as 11
-plus maths and English. Children’s tutoring can be provided on a one to one
+We offer tutoring in *French* and *English* for children and adults as well as *11
+plus maths and English*. Children’s tutoring can be provided on a one to one
 basis or in small groups.
 
 Click here for details of our rates and contact Dawn on 01752 302237 or by
 email to dawn@curiouscrab.com to book an initial free session.
+
+jwh
