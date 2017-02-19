@@ -43,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+.block {
+    background-color: grey;
+    
+}
