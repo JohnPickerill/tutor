@@ -1,3 +1,5 @@
-name: Tutor City
+name: Acorn Tutoring
+title: Welcome to Acorn Tutoring
+description: Acorn tutoring website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
