@@ -49,3 +49,10 @@ ul.posts li {
     background-color: grey;
     
 }
+
+ul.acorn {
+        list-style-image: url('/assets/crabc.jpg');
+        color: red;
+}
+
+
