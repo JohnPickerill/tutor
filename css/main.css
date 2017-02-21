@@ -57,4 +57,10 @@ ul.acorn {
         
 }
 
+li.acorn {
+background: url(‘/tutor/assets/acorn_bullet.png’) no-repeat left top;
+height: 54px;
+padding-left: 44px;
+padding-top: 3px;
+}
 
