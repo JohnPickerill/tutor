@@ -51,10 +51,8 @@ ul.posts li {
 }
 
 ul.acorn {
-        list-style-type: circle;
-        list-style-image: url('/tutor/assets/acorn_bullet.png');
-        color: blue;
-        
+        list-style-type: none;
+        color: blue;       
 }
 
 li.acorn {
@@ -64,3 +62,9 @@ padding-left: 44px;
 padding-top: 3px;
 }
 
+.acorn li {
+background: url(‘/tutor/assets/acorn_bullet.png’) no-repeat left top;
+height: 54px;
+padding-left: 44px;
+padding-top: 3px;
+}
