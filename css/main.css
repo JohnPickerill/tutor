@@ -57,10 +57,11 @@ ul.acornx {
 
 li.acorn {
 background: url("/tutor/assets/acorn_bullet.png") no-repeat left top;
+background-size: 50px 50px;
 height: 54px;
 padding-left: 44px;
 padding-top: 3px;
-color orange;
+color: orange;
 }
 
 .acorn li {
