@@ -8,7 +8,7 @@ title: Acorn Tutoring
 <ul class="acorn">
     <li> john </li>
     <li> was </li>
-    <li> here </li>
+    <li class="acorn"> here </li>
 </ul>
 
 <div class = "box">
