@@ -5,7 +5,7 @@ title: Acorn Tutoring
  
 # Acorn Tutoring
 
-<ul class="acorn">
+<ul class="acornx">
     <li> john </li>
     <li> was </li>
     <li class="acorn"> here </li>
