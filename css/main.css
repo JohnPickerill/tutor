@@ -52,7 +52,7 @@ ul.posts li {
 
 ul.acorn {
         list-style-type: square;
-        list-style-image: url('/tutor/assets/acorn_bullet.jpg');
+        list-style-image: url('/tutor/assets/acorn_bullet.png');
         color: blue;
         
 }
