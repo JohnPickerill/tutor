@@ -5,6 +5,12 @@ title: Acorn Tutoring
  
 # Acorn Tutoring
 
+<ul class="acorn">
+    <li> john </li>
+    <li> was </li>
+    <li> here </li>
+</ul>
+
 <div class = "box">
 The name of Acorn Tutoring was inspired by the motto of Sir Francis Drake "Sic
 Parvis Magna" meaning "Thus great things from small things (come)". Just as
