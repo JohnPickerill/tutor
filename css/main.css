@@ -30,7 +30,7 @@ p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
     font-size: 1.5em;
     line-height: 1.4em;
-    margin-left: 4em;
+    margin-left: 2em;
     color: #333;
 }
 footer {
@@ -71,17 +71,16 @@ ul.posts li {
 
 
 ul {
-        list-style-type: none;
-        color: blue;       
+    list-style-type: none; 
+    margin-left: 2em;
 }
 
-lin {
-background: url("/assets/acorn_bullet.png") no-repeat left top;
-background-size: 25px 20px;
-height: 54px;
-padding-left: 44px;
-padding-top: 3px;
-color: orange;
+li {
+    background: url("/assets/acorn_bullet.png") no-repeat left top;
+    background-size: 25px 20px;
+    height: 54px;
+    padding-left: 44px;
+    padding-top: 3px;
 }
 
 
