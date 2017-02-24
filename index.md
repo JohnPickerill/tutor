@@ -13,16 +13,10 @@ Working with students to make a difference
 
 We offer tutoring for adults and children and specialise in the following areas:-
 
-
-
-*    Basic written, oral and conversational French to GCSE   
- 
-*    English – reading and writing to GCSE    
-
-*   English as a foreign language    
-
+* Basic written, oral and conversational French to GCSE   
+* English – reading and writing to GCSE    
+* English as a foreign language    
 * Primary maths up to year 6 and SATS preparation    
-
 * Adult literacy and maths    
 * 11 plus preparation    
 * Phonics    
