@@ -2,8 +2,9 @@
 layout: default
 title: Tutors
 ---
+# Our Tutors
 
-== Dawn Pickerill ==
+## Dawn Pickerill
 
 I have lived and worked in Plymouth all of my life.  I have a law degree from the University of Exeter (2.1) and qualified as a solicitor, a career in which I worked for over 20 years, in parallel with which I began volunteering in primary schools on a regular basis in 2009.  In 2015, I decided to change career to concentrate on working in the field of education and I have since attended various courses aimed at improving my tutoring skills.  I have since tutored both adults and children, in particular children of primary age.
 

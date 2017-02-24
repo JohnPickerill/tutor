@@ -3,4 +3,4 @@ layout: default
 title: Quizzes
 ---
 
-= Maths and English Quizzes =
+# Maths and English Quizzes 

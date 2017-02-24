@@ -3,4 +3,4 @@ layout: default
 title: Resources
 ---
 
-= Resources =
+# Resources
