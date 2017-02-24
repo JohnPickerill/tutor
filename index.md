@@ -13,7 +13,7 @@ Working with students to make a difference
 
 We offer tutoring for adults and children and specialise in the following areas:-
 
-
+<div>
 
 * Basic written, oral and conversational French to GCSE   
 * English – reading and writing to GCSE    
