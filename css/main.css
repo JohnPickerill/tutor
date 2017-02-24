@@ -12,10 +12,25 @@ nav ul, footer ul {
     background-color: LightGreen;
     color: darkgrey;
 }
+
 nav ul li, footer ul li {
     display: inline;
-    background: none;
     margin-right: 20px;
+}
+
+nav a, footer a {
+    text-decoration: none;
+    color: #999;
+}
+
+nav a:hover, footer a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+
+footer ul li {
+    background: none;
 }
 
 footer {
@@ -29,8 +44,6 @@ img {
     width: 40%;
 }
 
-
-
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -40,6 +53,7 @@ h1 {
 .strap_line {
      font-family: "Comic Sans MS", cursive, sans-serif;
      text-align: center;
+     margin-top: -2em;
 }
 
 p {
