@@ -13,6 +13,8 @@ We offer tutoring in *French* and *English* for children and adults as well as *
 plus maths and English*. Children’s tutoring can be provided on a one to one
 basis or in small groups.
 
+("Oak Tree")[/assets/gate_tree.jpg]
+
 <div class = "box">
 The name of Acorn Tutoring was inspired by the motto of Sir Francis Drake "Sic
 Parvis Magna" meaning "Thus great things from small things (come)". Just as

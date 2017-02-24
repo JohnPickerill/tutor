@@ -14,6 +14,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
+    background: none
     margin-right: 20px;
 }
 
@@ -32,6 +33,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
+}
+
+.strap_line {
+     font-family: "Comic Sans MS", cursive, sans-serif;
+     text-align: center;
 }
 
 p {
@@ -51,9 +58,7 @@ ul.posts li {
     list-style: none;
 }
 
-.strap_line {
-     font-family: "Comic Sans MS", cursive, sans-serif;
-}
+
 
 .box {
     background-color: palegreen;
