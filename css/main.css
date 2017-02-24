@@ -23,13 +23,14 @@ footer {
     font-size: .8em;
 }
 
-a {
-    text-decoration: none;
-    color: #999;
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
-a:hover {
-    text-decoration: underline;
-}
+
+
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
