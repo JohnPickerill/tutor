@@ -6,6 +6,7 @@ body {
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
+    margin-left: 0px;
     list-style: none;
     font-weight: bold;
     background-color: LightGreen;
@@ -15,6 +16,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
 a {
     text-decoration: none;
     color: #999;
@@ -26,16 +33,13 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
     font-size: 1.5em;
     line-height: 1.4em;
     margin-left: 2em;
     color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 ul.posts { 
@@ -47,6 +51,9 @@ ul.posts li {
     list-style: none;
 }
 
+.strap_line {
+     font-family: "Comic Sans MS", cursive, sans-serif;
+}
 
 .box {
     background-color: palegreen;
@@ -69,18 +76,17 @@ ul.posts li {
     
 }
 
-
 ul {
     list-style-type: none; 
     margin-left: 2em;
 }
 
 li {
-    background: url("/assets/acorn_bullet.png") no-repeat left top;
-    background-size: 25px 20px;
-    height: 54px;
-    padding-left: 44px;
-    padding-top: 3px;
+    background: url("/assets/acorn_bullet.png") no-repeat left bottom;
+    background-size: 1em 1em;
+    height: 1em;
+    padding-left: 2em;
+    padding-top: 0.5em;
 }
 
 
