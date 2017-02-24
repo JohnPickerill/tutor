@@ -15,11 +15,11 @@ We offer tutoring for adults and children and specialise in the following areas:
 
 <div class="acorn">
 
-* Basic written, oral and conversational French to GCSE   
+*    Basic written, oral and conversational French to GCSE   
  
-* English – reading and writing to GCSE    
+*    English – reading and writing to GCSE    
 
-* English as a foreign language    
+*   English as a foreign language    
 
 * Primary maths up to year 6 and SATS preparation    
 
