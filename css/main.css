@@ -27,7 +27,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -49,7 +49,7 @@ ul.posts li {
 
 .box {
     background-color: palegreen;
-    font: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-style: italic;
     font-size: 1em;
     font-weight: normal;
@@ -60,7 +60,7 @@ ul.posts li {
 
 .contact {
     background-color: white;
-    font: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     font-weight: normal;
     font-size: 1em 
     
