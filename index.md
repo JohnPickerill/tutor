@@ -13,7 +13,7 @@ Working with students to make a difference
 
 We offer tutoring for adults and children and specialise in the following areas:-
 
-
+<div class="strap_line">  
 
 * Basic written, oral and conversational French to GCSE   
 * English – reading and writing to GCSE    
@@ -24,7 +24,7 @@ We offer tutoring for adults and children and specialise in the following areas:
 * Phonics    
 * Piano and music 
 
-
+</div>
 
 ## Where Does Tutoring Take Place ? 
 
