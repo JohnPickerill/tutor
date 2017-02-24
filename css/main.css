@@ -10,7 +10,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     background-color: LightGreen;
-    color: darkgrey;
 }
 
 nav ul li, footer ul li {
@@ -20,7 +19,7 @@ nav ul li, footer ul li {
 
 nav a, footer a {
     text-decoration: none;
-    color: #999;
+    color: darkgrey;
 }
 
 nav a:hover, footer a:hover {
@@ -32,7 +31,7 @@ footer li {
     background: none;
 }
 
-nav li:hoover {
+nav a:hoover {
     background: none;
 }
 
