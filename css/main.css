@@ -8,7 +8,8 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: LightBlue;
+    background-color: LightGreen;
+    color: darkgrey;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -26,6 +27,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font: "Palatino Linotype", "Book Antiqua", Palatino, serif
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -46,19 +48,19 @@ ul.posts li {
 
 
 .box {
-    background-color: light-green;
+    background-color: palegreen;
     font: "Palatino Linotype", "Book Antiqua", Palatino, serif
     font-style: italic;
     font-size: 1em;
     font-weight: normal;
     border-style: inset;
     border-width: 2px;
-    border-color: dark-green;
+    border-color: green;
 }
 
 .contact {
     background-color: white;
-    font: "Comic Sans MS", cursive, sans-serif
+    font: "Comic Sans MS", cursive, sans-serif;
     font-weight: normal;
     font-size: 1em 
     

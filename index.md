@@ -5,7 +5,7 @@ title: Acorn Tutoring
  
 # Acorn Tutoring
 
-<div class=strap_line>                                            
+<div class="strap_line">                                            
 Working with students to make a difference                                        
 </div>
 
@@ -13,6 +13,7 @@ Working with students to make a difference
 
 We offer tutoring for adults and children and specialise in the following areas:-
 
+<div class="acorn">
 * Basic written, oral and conversational French to GCSE
 * English – reading and writing to GCSE
 * English as a foreign language
@@ -21,6 +22,7 @@ We offer tutoring for adults and children and specialise in the following areas:
 * 11 plus preparation
 * Phonics
 * Piano and music
+</div>
 
 ## Where Does Tutoring Take Place ? 
 
