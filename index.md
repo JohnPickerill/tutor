@@ -5,28 +5,63 @@ title: Acorn Tutoring
  
 # Acorn Tutoring
 
-<ul class="acornx">
-    <li> john </li>
-    <li> was </li>
-    <li class="acorn"> here </li>
-</ul>
+                                                      
+= Acorn Tutors =
+                                            
+Working with students to make a difference                                        
 
-<div class = "box">
-The name of Acorn Tutoring was inspired by the motto of Sir Francis Drake "Sic
-Parvis Magna" meaning "Thus great things from small things (come)". Just as
-little acorns grown into tall strong oak trees, so children have the ability to
-grow and develop both mentally and physically to achieve their full potential
-and become great.
-</div>
+== What do we Offer? ==                                                                               
+
+We offer tutoring for adults and children and specialise in the following areas:-
+
+* Basic written, oral and conversational French to GCSE
+* English – reading and writing to GCSE
+* English as a foreign language
+* Primary maths up to year 6 and SATS preparation
+* Adult literacy and maths
+* 11 plus preparation
+* Phonics
+* Piano and music
+
+== Where Does Tutoring Take Place ? ==
+
+Tutoring either takes place in the Woolwell area where we are based or in the student’s own home, depending on the availability of the tutor.
+
+When Does Tutoring Take Place?
+Sessions usually take place on weekdays after school in term time.  In addition, there are also sessions on weekdays in the early afternoon.
+
+== Does all Tutoring take place on a one to one basis? ==
+
+We specialise in one to one tutoring but can also offer tutoring in small groups if places are available.
+ 
+== Are Acorn Tutors CRB checked? ==
+Yes
+
+== Do you Offer an Initial Free Meeting? ==
+
+Yes.  It is very important that students are comfortable with their tutor and for that reason, we offer an initial session of up to half an hour to allow the tutor and the student the opportunity to meet each other and discuss their individual needs.
 
 
-At Acorn Tutoring we believe passionately in bringing out the best in every child by 
-recognising that each child is different – in the way that they learn and
-in their individual talents and abilities. We believe in a patient, fun approach
-so that children can enjoy learning.
+== Why us? ==
 
-We offer tutoring in *French* and *English* for children and adults as well as *11
-plus maths and English*. Children’s tutoring can be provided on a one to one
-basis or in small groups.
+At Acorn Tutoring we passionately believe in bringing out the best in our students by recognising that each individual is different, both in the way that they learn best and in their individual talents and abilities.
 
+We believe in a patient, fun approach so that all students can enjoy learning whatever their age!
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
  
