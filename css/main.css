@@ -46,9 +46,24 @@ ul.posts li {
 
 
 .box {
-    background-color: grey;
+    background-color: light-green;
+    font: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    font-style: italic;
+    font-size: 1em;
+    font-weight: normal;
+    border-style: inset;
+    border-width: 2px;
+    border-color: dark-green;
+}
+
+.contact {
+    background-color: white;
+    font: "Comic Sans MS", cursive, sans-serif
+    font-weight: normal;
+    font-size: 1em 
     
 }
+
 
 ul.acornx {
         list-style-type: none;
