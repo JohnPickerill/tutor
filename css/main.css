@@ -104,9 +104,9 @@ ul {
 }
 
 li {
-    background: url("/assets/acorn_bullet.png") no-repeat left bottom;
+    background: url("/assets/acorn_bullet.png") no-repeat left top;
     background-size: 1em 1em;
-    height: 1em;
+    height: auto;
     padding-left: 2em;
     padding-top: 0.5em;
 }
