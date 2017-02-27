@@ -58,69 +58,52 @@ Do you think, at your age age, it is right?&quot;
 But, now that I&#39;m perfectly sure I have none,   
 Why, I do it again and again.&quot;
 
-&quot;You are old,&quot; said the youth, &quot; as I mentioned before,
+&quot;You are old,&quot; said the youth, &quot; as I mentioned before,   
+And have grown most uncommonly fat;   
+Yet you turned a back somersault in at the door—   
+Pray, what is the reason of that?&quot;   
 
-And have grown most uncommonly fat;
-
-Yet you turned a back somersault in at the door—
-
-Pray, what is the reason of that?&quot;
-
-&quot;In my youth,&quot; said the sage, as he shook his grey locks,
-
-&quot;I kept all my limbs very supple
-
-By the use of this ointment—one shilling the box—
-
+&quot;In my youth,&quot; said the sage, as he shook his grey locks,   
+&quot;I kept all my limbs very supple   
+By the use of this ointment—one shilling the box—   
 Allow me to sell you a couple?&quot;
 
-&quot;You are old,&quot; said the youth, &quot; and your jaws are too weak
-
-For anything tougher than suet;
-
-Yet you finished the goose, with the bones and the back—
-
+&quot;You are old,&quot; said the youth, &quot; and your jaws are too weak   
+For anything tougher than suet;   
+Yet you finished the goose, with the bones and the back—   
 Pray, how did you manage to do it?&quot;
 
-&quot;In my youth,&quot; said his father, &quot;I took to the law,
+&quot;In my youth,&quot; said his father, &quot;I took to the law,   
+And argued each case with my wife;   
+And the muscular strength, which it gave to my jaw,   
+Has lasted the rest of my life.&quot;   
 
-And argued each case with my wife;
+&quot;You are old,&quot; said the youth, &quot;one would hardly suppose   
+That your eye was steady as ever;   
+Yet, you balanced an eel on the end of your nose—   
+What made you so awfully clever?&quot;   
 
-And the muscular strength, which it gave to my jaw,
-
-Has lasted the rest of my life.&quot;
-
-&quot;You are old,&quot; said the youth, &quot;one would hardly suppose
-
-That your eye was steady as ever;
-
-Yet, you balanced an eel on the end of your nose—
-
-What made you so awfully clever?&quot;
-
-&quot;I have answered three questions, and that is enough,&quot;
-
-Said his father. &quot;Don&#39;t give yourself airs!
-
-Do you think I can listen all day to such stuff?
-
-Be off, or I&#39;ll kick you downstairs!
-
-Make your own Poem
-
-Now it’s time for you to have a try. Here is a title and a sentence to start you
-
-off……..
-
-Winter
-
-I think Winter’s far too cold
-
-The wind blows in the trees
+&quot;I have answered three questions, and that is enough,&quot;   
+Said his father. &quot;Don&#39;t give yourself airs!   
+Do you think I can listen all day to such stuff?   
+Be off, or I&#39;ll kick you downstairs!   
 
 ---
 
+## Make your own Poem
+
+Now it’s time for you to have a try. Here is a title and a sentence to start you off…….
+
+*Winter*
+
+I think Winter’s far too cold  
+The wind blows in the trees  
+
+ 
+
 Now you can carry on! We will post our favourites on the website
+
+---
 
 ## Limericks
 
@@ -151,7 +134,7 @@ To make themselves nests on that tree!
 
 ----
 
-Here is another
+### Here is another
 
 There is a Young Lady whose nose
 
