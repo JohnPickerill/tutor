@@ -11,7 +11,7 @@ Working with students to make a difference
 
 ## What do we Offer?
 
-<img src="/assets/dawn.jpg" alt="dawn" style="height:100px; width:auto; float:left;">
+<img src="/assets/dawn.jpg" alt="dawn" style="height:100px; width:auto; float:right;">
 
 We offer tutoring for adults and children and specialise in the following areas:-
 
