@@ -114,39 +114,28 @@ only have five lines.
 * The first line begins “There was a ….” And ends with the name of a person or
 the place they come from eg “There was a young lady called Grace” or “There
 was a young man from Hong Kong”
-
 * Lines 1,2 and 5 rhyme with each other and should have 7-10 syllables
-
 * Lines 3 and 4 rhyme also rhyme with each other and have 5-7 syllables
 
 
 ### Here are some examples by Edward Lear
 
-There was an old man in a tree
-
-Whose whiskers were lovely to see
-
-But the birds of the air
-
-Pluck’d them perfectly bare,
-
+There was an old man in a tree   
+Whose whiskers were lovely to see   
+But the birds of the air   
+Pluck’d them perfectly bare,   
 To make themselves nests on that tree!
 
 ----
 
 ### Here is another
 
-There is a Young Lady whose nose
-
-Continually prospers and grows;
-
-When it grew out of sight,
-
-She exclaimed in a fright
-
+There is a Young Lady whose nose   
+Continually prospers and grows;   
+When it grew out of sight,   
+She exclaimed in a fright   
 “Oh! Farewell to the end of my nose!”
 
 Now you can try to make your own limerick – make it short and funny and as far
-
 fetched and silly as you like! We will add our favourites to the examples above!
 
