@@ -3,6 +3,7 @@ body {
     width: 90%;
     background-color: GhostWhite;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -75,6 +76,10 @@ ul.posts li {
     list-style: none;
 }
 
+
+.container {
+    max-width: 100em;
+}
 
 
 .box {
