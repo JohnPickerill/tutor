@@ -11,6 +11,8 @@ Working with students to make a difference
 
 ## What do we Offer?
 
+<img src="/assets/dawn.jpg" alt="dawn" style="height:100px; width:auto; float:left;">
+
 We offer tutoring for adults and children and specialise in the following areas:-
 
 * Basic written, oral and conversational French to GCSE   
