@@ -10,7 +10,7 @@ nav ul, footer ul {
     margin-left: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: LightGreen;
+    background-color: #cc9900;
 }
 
 nav ul li, footer ul li {
@@ -78,13 +78,13 @@ ul.posts li {
 
 
 .container {
-    max-width: 100em;
+    max-width: 50em;
     margin: auto;
 }
 
 
 .box {
-    background-color: palegreen;
+    background-color: #ffbf00;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-style: italic;
     font-size: 1em;
