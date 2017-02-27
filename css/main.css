@@ -79,6 +79,7 @@ ul.posts li {
 
 .container {
     max-width: 100em;
+    margin: auto;
 }
 
 
