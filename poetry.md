@@ -8,88 +8,54 @@ title: Poetry
 
 Poetry is a great way to encourage creative writing and to have fun! In younger
 children, it can be helpful in learning phonics. In this section, we have posted some
-of our favourite poems. If you have a favourite poem, please feel free to share it with
-
-us.
-
----
+of our favourite poems. If you have a favourite poem, please feel free to share it with us.
 
 Here are some of our favourites
 
+---
+
 ### The Armpit of Doom – Ken Nesbitt
 
-Today I walked into my big brother’s room,
-
-and that’s when I saw it: The Armpit of Doom.
-
-I wasn’t expecting The Armpit at all.
-
-I shrieked and fell backward and grabbed for the wall.
-
-The Armpit was smelly. The Armpit was hairy.
-
-The Armpit was truly disgusting and scary.
-
-I wanted to vomit. I wanted to cry.
-
-I wanted to flee from its all-seeing eye.
-
-My skin started crawling with goosebumps and chills.
-
-My brain began screaming to head for the hills.
-
-I tried to escape but I knew I could not.
-
-In horror, I found I was glued to the spot.
-
-“Will somebody help me!?” I started to shout,
-
-till fumes overcame me and made me pass out.
-
-And that’s why I’m here in this hospital room;
-
-it’s all on account of The Armpit of Doom.
-
-I’m still feeling shaken. I’m queasy and pale,
-
-but lucky I lived and can tell you my tale.
-
-So take my advice… If you ever go near
-
-your big brothers room, bring a whole lot of gear:
-
-A gas mask and goggles, a helmet and shield,
-
-or maybe a space suit that’s perfectly sealed.
-
-And then, only then, when you’re fully prepared,
-
-step in very slowly and hope you’ll be spared.
-
-But, if you’re afraid of the Armpit of Doom,
-
-stay far, far away from your big brother’s room.
-
+Today I walked into my big brother’s room,   
+and that’s when I saw it: The Armpit of Doom.   
+I wasn’t expecting The Armpit at all.   
+I shrieked and fell backward and grabbed for the wall.   
+The Armpit was smelly. The Armpit was hairy.   
+The Armpit was truly disgusting and scary.   
+I wanted to vomit. I wanted to cry.   
+I wanted to flee from its all-seeing eye.   
+My skin started crawling with goosebumps and chills.   
+My brain began screaming to head for the hills.   
+I tried to escape but I knew I could not.   
+In horror, I found I was glued to the spot.    
+“Will somebody help me!?” I started to shout,   
+till fumes overcame me and made me pass out.   
+And that’s why I’m here in this hospital room;   
+it’s all on account of The Armpit of Doom.   
+I’m still feeling shaken. I’m queasy and pale,   
+but lucky I lived and can tell you my tale.   
+So take my advice… If you ever go near   
+your big brothers room, bring a whole lot of gear:   
+A gas mask and goggles, a helmet and shield,   
+or maybe a space suit that’s perfectly sealed.   
+And then, only then, when you’re fully prepared,   
+step in very slowly and hope you’ll be spared.   
+But, if you’re afraid of the Armpit of Doom,   
+stay far, far away from your big brother’s room.   
  -- Kenn Nesbitt
 
 ---
 
 ### Father William – Lewis Carroll
 
-"You are old, Father William," the young man said,
-
-&quot;And your hair has become very white;
-
-And yet you incessantly stand on your head—
-
+"You are old, Father William," the young man said,   
+&quot;And your hair has become very white;   
+And yet you incessantly stand on your head—      
 Do you think, at your age age, it is right?&quot;
 
-&quot;In my youth,&quot; Father William replied to his son,
-
+&quot;In my youth,&quot; Father William replied to his son,   
 &quot;I feared it might injure the brain;
-
-But, now that I&#39;m perfectly sure I have none,
-
+But, now that I&#39;m perfectly sure I have none,   
 Why, I do it again and again.&quot;
 
 &quot;You are old,&quot; said the youth, &quot; as I mentioned before,
