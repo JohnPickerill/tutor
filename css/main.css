@@ -2,6 +2,20 @@ header {
     display: block;
 }
 
+body {
+    margin: 60px auto;
+    width: 90%;
+    
+    height 100%
+}
+
+.container{
+    clear: both;
+    min-height: 100%;
+    background-color: #e6ffe6;
+    margin: 0 0 -5em 0; /*negative margin to pull footer to overlap*/
+}
+
 header {
     position:fixed;
     top: 0px;
@@ -10,12 +24,18 @@ header {
     width: 100%;
     }
 
-body {
-    margin: 60px auto;
-    width: 90%;
-    background-color: 	 #e6c300;
-    height 100%
+footer {
+    clear: both;
+    height: 5em;
+    }    
+    
+.content{
+    max-width: 50em;
+    margin: auto;
+    clear: both;
+	padding: 0 0 5em 0;
 }
+
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -80,6 +100,7 @@ p {
     color: #333;
 }
 
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -87,17 +108,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-.container{
-    clear: both;
-    min-height: 100%;
-    margin: 0 0 -5em 0; /*negative margin to pull footer to overlap*/
-}
-
-.content{
-    max-width: 50em;
-    margin: auto;
 }
 
 
