@@ -33,6 +33,7 @@ footer {
     }
     
 .content{
+    position:fixed;
     max-width: 50em;
     margin: auto;
     clear: both;
