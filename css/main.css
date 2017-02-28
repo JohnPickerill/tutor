@@ -20,10 +20,9 @@ header {
     position:fixed;
     top: 0px;
     left: 0px;
-    height: 10em;
+    height: 5em;
     width: 100%;
     z-index:10;
-    border-bottom: 1px solid #d5d5d5;
     }
 
 footer {
@@ -35,7 +34,7 @@ footer {
     
 .content{
     max-width: 50em;
-    margin: 10em auto 0em;
+    margin: auto;
     clear: both;
     position: relative;
 	padding: 5em 0 5em 0;
