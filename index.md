@@ -3,11 +3,7 @@ layout: default
 title: Acorn Tutoring
 ---
  
-# Acorn Tutoring
 
-<div class="strap_line">                                            
-Working with students to make a difference                                        
-</div>
 
 ## What do we Offer?
 
