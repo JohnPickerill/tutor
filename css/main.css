@@ -18,6 +18,7 @@ body {
 
 header {
     position:fixed;
+    background-color: #e6ffe6;
     top: 0px;
     left: 0px;
     height: 5em;
