@@ -34,7 +34,7 @@ footer {
     
 .content{
     max-width: 50em;
-    margin: auto;
+    margin: 10em auto auto 0em;
     clear: both;
     position: relative;
 	padding: 5em 0 5em 0;
