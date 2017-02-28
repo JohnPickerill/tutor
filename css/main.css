@@ -22,12 +22,15 @@ header {
     left: 0px;
     height: 10em;
     width: 100%;
+    border-bottom: 1px solid #d5d5d5;
     }
 
 footer {
     clear: both;
     height: 5em;
-    }    
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    }
     
 .content{
     max-width: 50em;
@@ -70,10 +73,7 @@ nav a:hover {
     background: none;
 }
 
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+
 
 img {
     display: block;
