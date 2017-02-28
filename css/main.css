@@ -2,6 +2,14 @@ header {
     display: block;
 }
 
+header {
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    height: 5em;
+    width: 100%;
+    }
+
 body {
     margin: 60px auto;
     width: 90%;
@@ -37,7 +45,7 @@ footer li {
     background: none;
 }
 
-nav a:hoover {
+nav a:hover {
     background: none;
 }
 
@@ -81,21 +89,15 @@ ul.posts li {
     list-style: none;
 }
 
-
-header {
-    position:fixed;
-    top: 0px;
-    left: 0px;
-    height: 5em;
-    width: 100%;
-    background-color: green;}
-
-.container {
-    max-width: 50em;
-    margin: auto;
+.container{
     clear: both;
     min-height: 100%;
     margin: 0 0 -5em 0; /*negative margin to pull footer to overlap*/
+}
+
+.content{
+    max-width: 50em;
+    margin: auto;
 }
 
 
